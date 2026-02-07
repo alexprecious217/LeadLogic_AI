@@ -1,4 +1,4 @@
-# LeadLogic_AI
+ LeadLogic_AI
 Intelligent Lead scoring & Sentiment Analysis Engine
 
 LeadLogic AI isa product-ready NLP (Natural Language Processing) tool designed to help sales teams proriitize their pipeline. By analyzing the sentiment and tone of incoming customer inquiries, the engine automatically categorizes leads to ensure high-value prospects never slip through the cracks.
